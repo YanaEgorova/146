@@ -1,0 +1,21 @@
+:root {
+    --main-bg-color: #fff;
+    --sub-bg-color: #000;
+    --sub-text-color: #fff;
+    --inactive: rgb(161, 161, 161);
+    --accent-color: red;
+    --checkbox-color: #6699ff;
+
+    --main-text-color: #000;
+
+    
+    --first-brand-color: #b4a4c6;
+    --second-brand-color: #bddde5;
+    --third-brand-color: #93b6d4;
+
+    --main-font: 'Quicksand';
+    --title-font: 'Quicksand Bold';
+    --main-title-font: 'Dancing Script';
+    
+    font-size: 62.5%;
+}
