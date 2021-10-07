@@ -216,50 +216,50 @@ function quantityLabelOptions(quantity) {
         case 0:  
         return defaultText; 
         case 1:  
-        return '1 pack for $19.99';  
+        return '1 cream for $19.99';  
         case 2: 
         return {
-          title: '2 Packs for $24.99',
+          title: '2 creams for $24.99',
         };
         case 3:
         return {
-            title: '3 Packs for $35.32',
+            title: '3 creams for $35.32',
         };
         case 4:
         return {
-            title: '4 Packs for $39.99',
+            title: '4 creams for $39.99',
         };
         case 5:
         return {
-            title: '5 Packs for $43.98',
+            title: '5 creams for $43.98',
         };
         case 6:  
         return {
-            title: '6 Packs for $49.95',
+            title: '6 creams for $49.95',
         };
         case 7:
         return {
-            title: '7 Packs for $69.99',
+            title: '7 creams for $69.99',
         };
         case 8:
         return {
-            title: '8 Packs for $79.99',
+            title: '8 creams for $79.99',
         };
         case 9:
         return {
-            title: '9 Packs for $84.41',
+            title: '9 creams for $84.41',
         };
         case 10:
         return {
-            title: '10 Packs for $89.99',
+            title: '10 creams for $89.99',
         };
         case 11:
         return {
-            title: '11 Packs for $109.00',
+            title: '11 creams for $109.00',
         };
         case 12:
         return {
-            title: '12 Packs for $119.00',
+            title: '12 creams for $119.00',
         };
     }
 }
